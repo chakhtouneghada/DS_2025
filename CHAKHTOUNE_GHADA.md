@@ -1,6 +1,10 @@
 # Rapport d'Analyse Approfondie du PIB
 ## Comparaison Internationale et Analyse Temporelle
 
+
+
+#CHAKHTOUNE Ghada
+
 ---
 
 ## 1. Introduction et Contexte
