@@ -568,3 +568,7 @@ if abs(corr_pib_pibhab) > 0.7:
     print("     un PIB par habitant élevé")
 else:
     print("   → Corrélation faible : la taille de l
+
+
+
+<img width="1389" height="989" alt="IMG 1" src="https://github.com/user-attachments/assets/2749b258-79bb-4d69-9e78-be205b8d058e" />
