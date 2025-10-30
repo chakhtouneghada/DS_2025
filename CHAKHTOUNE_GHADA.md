@@ -34,6 +34,7 @@ La méthodologie adoptée repose sur une approche quantitative combinant :
 4. **Visualisation des données** : Représentations graphiques multiples pour faciliter l'interprétation
 
 L'analyse utilise des techniques statistiques standards et des outils de visualisation avancés pour garantir la rigueur et la clarté des résultats.
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/8fa44c9e-1f6a-422a-a79f-ffeeda775314" />
 
 ### 1.3 Pays sélectionnés et période d'analyse
 
