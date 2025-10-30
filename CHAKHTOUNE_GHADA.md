@@ -569,10 +569,8 @@ if abs(corr_pib_pibhab) > 0.7:
 else:
     print("   → Corrélation faible : la taille de l
 
+<img width="562" height="400" alt="IMAGE 1" src="https://github.com/user-attachments/assets/2890596b-a8c1-4b34-bb91-bbdca8c76d77" />
 
-
-
-<img width="562" height="400" alt="IMG 1" src="https://github.com/user-attachments/assets/1fc53615-3dc9-42fc-b92a-702ec70bd90f" />
 
 
 
