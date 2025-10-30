@@ -571,5 +571,20 @@ else:
 
 
 
-<img width="1389" height="989" alt="IMG 1" src="https://github.com/user-attachments/assets/e200ac39-2452-4548-910e-81a8c121a704" />
+
+
+<img width="300" height="500" alt="IMG 1" src="https://github.com/user-attachments/assets/e3d86ade-c107-4743-9a6a-49135c6e526e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
