@@ -573,13 +573,7 @@ else:
 
 
 
-<img width="600" height="800" alt="télécharger" src="https://github.com/user-attachments/assets/d15a7765-ed30-4f4c-97ba-6b8d331511ff" />
-
-
-
-
-
-
+C:\Users\hmd\Downloads\IMG 1.png
 
 
 
