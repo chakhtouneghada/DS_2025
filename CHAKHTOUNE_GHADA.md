@@ -1,7 +1,9 @@
 # Rapport d'Analyse Approfondie du PIB
 ## Comparaison Internationale et Analyse Temporelle
 
-![MOI](https://github.com/user-attachments/assets/02163cea-100-200-9f53-586ec95c8635)
+<img width="300" height="421" alt="image" src="https://github.com/user-attachments/assets/b3166a0d-96ca-4e40-9049-b2a7c77da742" />
+
+
 
 
 
