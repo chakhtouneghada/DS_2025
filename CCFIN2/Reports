@@ -1,5 +1,5 @@
 
-### 🧩 1. Nature du fichier
+1. Nature du fichier
 
 * **Type de fichier :** jeu de données (CSV)
 * **Nombre d’observations (lignes) :** 4 424
@@ -12,7 +12,7 @@
 
 ---
 
-### 🗓️ 2. Quand ?
+2. Quand ?
 
 Ce jeu de données a été collecté autour des années **2008 à 2014** (en se basant sur les variables économiques : *Unemployment rate*, *Inflation rate*, *GDP*).
 Ce type de dataset est bien connu sous le nom :
@@ -21,7 +21,7 @@ Ce type de dataset est bien connu sous le nom :
 
 ---
 
-### 👥 3. Qui ? (Population)
+3. Qui ? (Population)
 
 * **Population étudiée :** étudiants inscrits dans un établissement d’enseignement supérieur portugais.
 * **Taille de l’échantillon :** 4 424 étudiants.
@@ -36,7 +36,7 @@ Ce type de dataset est bien connu sous le nom :
 
 ---
 
-### 🌍 4. Où ?
+4. Où ?
 
 * **Pays :** 🇵🇹 **Portugal**
 * **Source institutionnelle :** université portugaise (souvent identifiée comme *University of Porto* dans les bases publiques UCI).
@@ -44,7 +44,7 @@ Ce type de dataset est bien connu sous le nom :
 
 ---
 
-### ⚙️ 5. Comment ? (Méthodologie)
+5. Comment ? (Méthodologie)
 
 * Les données ont été collectées à partir :
 
@@ -58,7 +58,7 @@ Ce type de dataset est bien connu sous le nom :
 
 ---
 
-### 🎯 6. Objectif du jeu de données
+6. Objectif du jeu de données
 
 * **But principal :** prédire le **risque d’abandon universitaire** ou la **réussite académique** à partir des variables sociodémographiques et académiques.
 * Ce dataset est fréquemment utilisé pour :
@@ -68,7 +68,7 @@ Ce type de dataset est bien connu sous le nom :
 
 ---
 
-### 📊 7. Variables principales
+7. Variables principales
 
 Quelques exemples de variables clés :
 
@@ -84,7 +84,7 @@ Quelques exemples de variables clés :
 
 ---
 
-### 🧠 8. Informations complémentaires
+8. Informations complémentaires
 
 * **Format de codage :** numérique (certaines valeurs comme "Gender" ou "Marital status" sont codées sous forme de chiffres).
 * **Langue d’origine :** anglais.
@@ -92,7 +92,7 @@ Quelques exemples de variables clés :
 
 ---
 
-### 📋 9. Résumé synthétique
+9. Résumé synthétique
 
 | Élément                   | Détail                                                |
 | ------------------------- | ----------------------------------------------------- |
@@ -105,5 +105,4 @@ Quelques exemples de variables clés :
 | **But de l’étude**        | Prédire le risque d’abandon ou la réussite académique |
 | **Type d’étude**          | Observationnelle, quantitative, prédictive            |
 
----
 
