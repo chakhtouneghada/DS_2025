@@ -1,1 +1,109 @@
 
+### 🧩 1. Nature du fichier
+
+* **Type de fichier :** jeu de données (CSV)
+* **Nombre d’observations (lignes) :** 4 424
+* **Nombre de variables (colonnes) :** 37
+* **Variable cible ("Target") :** indique le statut de l’étudiant :
+
+  * **Graduate** → étudiant diplômé (2 209)
+  * **Dropout** → étudiant ayant abandonné (1 421)
+  * **Enrolled** → étudiant encore inscrit (794)
+
+---
+
+### 🗓️ 2. Quand ?
+
+Ce jeu de données a été collecté autour des années **2008 à 2014** (en se basant sur les variables économiques : *Unemployment rate*, *Inflation rate*, *GDP*).
+Ce type de dataset est bien connu sous le nom :
+
+> “Predict Students Dropout and Academic Success – UCI Machine Learning Repository (Portugal)”.
+
+---
+
+### 👥 3. Qui ? (Population)
+
+* **Population étudiée :** étudiants inscrits dans un établissement d’enseignement supérieur portugais.
+* **Taille de l’échantillon :** 4 424 étudiants.
+* **Profil étudié :** étudiants de premier cycle (licence), avec informations sur :
+
+  * le **genre**,
+  * l’**âge à l’inscription**,
+  * les **études et professions des parents**,
+  * le **niveau d’entrée** (notes d’admission),
+  * les **résultats académiques** au premier et second semestre,
+  * la **situation financière** (boursier, débiteur, etc.).
+
+---
+
+### 🌍 4. Où ?
+
+* **Pays :** 🇵🇹 **Portugal**
+* **Source institutionnelle :** université portugaise (souvent identifiée comme *University of Porto* dans les bases publiques UCI).
+* Les indicateurs macroéconomiques (*chômage, inflation, PIB*) se réfèrent aussi au **contexte économique portugais**.
+
+---
+
+### ⚙️ 5. Comment ? (Méthodologie)
+
+* Les données ont été collectées à partir :
+
+  * des **bases administratives universitaires** (inscription, résultats académiques),
+  * et de **sources économiques nationales** (indicateurs macroéconomiques).
+* Chaque ligne correspond à un étudiant, avec :
+
+  * ses **caractéristiques personnelles et familiales**,
+  * ses **résultats universitaires** par semestre,
+  * son **statut final** (réussi, encore inscrit, ou abandonné).
+
+---
+
+### 🎯 6. Objectif du jeu de données
+
+* **But principal :** prédire le **risque d’abandon universitaire** ou la **réussite académique** à partir des variables sociodémographiques et académiques.
+* Ce dataset est fréquemment utilisé pour :
+
+  * tester des **modèles de machine learning** (régression logistique, arbres de décision, etc.),
+  * développer des **systèmes d’alerte précoce** pour repérer les étudiants à risque.
+
+---
+
+### 📊 7. Variables principales
+
+Quelques exemples de variables clés :
+
+| Catégorie                 | Exemples de variables                               |
+| ------------------------- | --------------------------------------------------- |
+| **Données personnelles**  | Age at enrollment, Gender, Marital status           |
+| **Parcours scolaire**     | Previous qualification, Admission grade             |
+| **Situation familiale**   | Mother’s/Father’s qualification & occupation        |
+| **Situation financière**  | Scholarship holder, Debtor, Tuition fees up to date |
+| **Résultats académiques** | Curricular units (enrolled, approved, grade…)       |
+| **Contexte économique**   | Unemployment rate, Inflation rate, GDP              |
+| **Variable cible**        | Target (Graduate / Dropout / Enrolled)              |
+
+---
+
+### 🧠 8. Informations complémentaires
+
+* **Format de codage :** numérique (certaines valeurs comme "Gender" ou "Marital status" sont codées sous forme de chiffres).
+* **Langue d’origine :** anglais.
+* **Usage typique :** projet d’analyse de données, apprentissage automatique, ou évaluation de politiques éducatives.
+
+---
+
+### 📋 9. Résumé synthétique
+
+| Élément                   | Détail                                                |
+| ------------------------- | ----------------------------------------------------- |
+| **Nom du fichier**        | `data.csv`                                            |
+| **Nombre d’observations** | 4 424                                                 |
+| **Nombre de variables**   | 37                                                    |
+| **Pays**                  | Portugal                                              |
+| **Période**               | env. 2008–2014                                        |
+| **Population**            | Étudiants universitaires                              |
+| **But de l’étude**        | Prédire le risque d’abandon ou la réussite académique |
+| **Type d’étude**          | Observationnelle, quantitative, prédictive            |
+
+---
+
