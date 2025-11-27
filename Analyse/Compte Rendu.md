@@ -1,5 +1,5 @@
 **Compte Rendu Technique du Notebook d’Importation et Préparation des Données (R / Jupyter)**
-1. Qui ?
+**1. Qui ?**
 
 Auteur présumé : Un utilisateur travaillant sur une analyse statistique ou un projet académique.
 
@@ -7,7 +7,7 @@ Profil probable : Étudiant(e), analyste ou chercheur(se) manipulant des donnée
 
 Contexte d’exécution : Environnement type Kaggle Notebook, identifiable par les chemins et cellules générées automatiquement.
 
-2. Quoi ?
+**2. Quoi ?**
 
 Fichier analysé : Notebook Jupyter (.ipynb).
 
@@ -23,13 +23,13 @@ Organisation du répertoire de travail.
 
 Vérification du fichier base prix pa.csv.
 
-3. Quand ?
+**3. Quand ?**
 
 Dates non précisées dans les métadonnées du notebook.
 
 Hypothèse : Notebook en cours de construction, récemment utilisé dans un environnement automatisé.
 
-4. Où ?
+**4. Où ?**
 
 Répertoire utilisé : ../input/
 
@@ -39,7 +39,7 @@ Contexte probable :
 
 Traitement de données dans un environnement Jupyter cloud (Kaggle ou similaire).
 
-5. Comment ?
+**5. Comment ?**
 🔧 Méthodologie observée
 
 Chargement de packages essentiels
@@ -70,7 +70,7 @@ Organisation du projet
 
 Le notebook se concentre sur la préparation de l’environnement, sans analyse encore formalisée.
 
-6. Pourquoi ?
+**6. Pourquoi ?**
 
 Objectif explicite :
 
@@ -86,7 +86,7 @@ d’un projet de data science,
 
 d’une étude économique.
 
-7. Résultats / Conclusions
+**7. Résultats / Conclusions**
 
 ✔ Importation réussie des données
 
@@ -98,7 +98,7 @@ d’une étude économique.
 
 Le document constitue la phase préliminaire avant une analyse plus approfondie (ACP, ANOVA, modélisation, etc.).
 
-8. Autres Informations Importantes
+**8. Autres Informations Importantes**
 
 Notebook en version préliminaire.
 
