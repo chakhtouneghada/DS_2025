@@ -99,10 +99,4 @@ d’une étude économique.
 
 Le document constitue la phase préliminaire avant une analyse plus approfondie (ACP, ANOVA, modélisation, etc.).
 
-**8. Autres Informations Importantes**
 
-Notebook en version préliminaire.
-
-Absence de markdown explicatif → tout est sous forme de code brut.
-
-Convient comme base pour une analyse exploratoire ou un projet pédagogique.
